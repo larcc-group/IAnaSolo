@@ -1,0 +1,4 @@
+npm install -D typescript sucrase
+npm i eslint -D
+npm install express cors mongoose
+npm install @types/express @types/cors @types/mongoose

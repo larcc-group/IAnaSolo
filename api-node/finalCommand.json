@@ -1,0 +1,1 @@
+"./home/alisson-ap/Projetos/TCC/tcc-si-ad/ProcessamentoDeImagens/ textcleaner -g -e stretch -f 25 -o 5 -t 30 -u -s 1 -T -p 20 /home/alisson-ap/Projetos/TCC/tcc-si-ad/ProcessamentoDeImagens/images/AnaliseSoloNova.jpeg /home/alisson-ap/Projetos/TCC/tcc-si-ad/ProcessamentoDeImagens/resultAdjust.jpg"

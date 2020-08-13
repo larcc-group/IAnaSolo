@@ -1,0 +1,40 @@
+[locale: "en"
+description: "5,5\n"
+bounding_poly {
+  vertices {
+    x: 15
+    y: 3
+  }
+  vertices {
+    x: 31
+    y: 3
+  }
+  vertices {
+    x: 31
+    y: 11
+  }
+  vertices {
+    x: 15
+    y: 11
+  }
+}
+, description: "5,5"
+bounding_poly {
+  vertices {
+    x: 15
+    y: 3
+  }
+  vertices {
+    x: 31
+    y: 3
+  }
+  vertices {
+    x: 31
+    y: 11
+  }
+  vertices {
+    x: 15
+    y: 11
+  }
+}
+]
