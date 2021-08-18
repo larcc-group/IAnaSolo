@@ -7,6 +7,10 @@ Interpretação de Análises de Solo com uso de Deep Learning
 **Diego H Schmidt** (Creator) <br>
 **Dalvan Griebler** (Mentoring)
 
+## Como citar este trabalho
+
+[[artigo]](http://dx.doi.org/10.5281/zenodo.4445204) Allembrandt, A.; Schmidt, D. H.; Griebler, D..  **Simplificando a Interpretação de Laudos de Análise de Solo com Deep Learning em Nuvem**. _Revista Eletrônica Argentina-Brasil de Tecnologias da Informação e da Comunicação (REABTIC)_. 1(13), Setrem,2021. 
+
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/16272139/89842948-8810f980-db4d-11ea-9370-f1478d0bd2e5.gif)
 
 Este repositório contém 4 projetos distintos, sendo eles:
